@@ -1,0 +1,18 @@
+At the beginning I was ready to acclaimate to the environment and keep an open mind to what I may learn. 
+As time began, I found myself empowered beyond simple prints and callouts.
+The power of hello, World! in Python, R, and nearly all programming languages. 
+
+```python
+x = hello, World!
+print(x) 
+  if x == hello, World!
+else print(x is:"not what it seems")
+
+Data Science is the future and arguably has always been here.
+What is it?
+
+My best interpretation starts with understanding the definition of `Data` from the simplest perspective.
+
+Data, in a nutshell, is a collected observation in a desired state (dependent on the instrument) of a real-time event in the past (milliseconds); in the future real-time.
+
+The science of `Data` relates to how we capture, store, query hypotheses, predict, and generate `Data` with `artificial intelligence` (Gen AI).
