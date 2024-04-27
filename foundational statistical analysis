@@ -1,0 +1,9 @@
+In statistics when evaluating a data set of values wheter in qualitative or quantitative data. For example in these two states data can exists as:
+
+a = [10, 22, 24]
+
+b = ["color", "sex", "gender"]
+
+c = ["women", "male", "child"]
+
+Each one of these represents a quantitative (a), or qualitative ordinal (b) or binary (c) variable.
